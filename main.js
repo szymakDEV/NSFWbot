@@ -106,4 +106,4 @@ if (command == "staff") {
     }
 });
 
-bot.login('ODI4MjM2ODM4OTIwNTE5NzUw.YGmpqg.QHl08p-NxDWyGikJCNdRyltVGlw')
+bot.login('YOUR-BOT-TOKEN')
